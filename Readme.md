@@ -1,3 +1,9 @@
+Just a fork of https://www.npmjs.com/package/cordova-plugin-beacon
+Some ios link errors are fixed
+
+====>
+
+
 # Bluetooth iBeacon Cross Platform Cordova Plugin #
 
 This Bluetooth Smart iBeacon WebWorks Cordova Cross Platform Plugin (**SimpleXpBeaconPlugin**) is intended to allow  WebWorks applications to monitor and detect devices using the Apple de-facto iBeacon standard. It supports all the following platforms:
